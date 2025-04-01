@@ -1,7 +1,7 @@
 export default {
     target: 'static', // Set target to static for SSG
     head: {
-        title: 'Ciprian Stavovei - Senior Drupal Developer',
+        title: 'All Around Software Solutions SRL - Expert Drupal Development Services',
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },

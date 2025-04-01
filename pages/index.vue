@@ -3,9 +3,9 @@
     <!-- Header -->
     <header>
       <div class="profile">
-        <img src="https://via.placeholder.com/150" alt="Ciprian Stavovei" class="profile-pic">
-        <h1>Ciprian Stavovei</h1>
-        <p class="tagline">Senior Drupal Developer & Technical Lead</p>
+        <img src="/logo.jpg" alt="All Around Software Solutions SRL" class="profile-pic">
+        <h1>All Around Software Solutions SRL</h1>
+        <p class="tagline">Expert Drupal Development Services</p>
       </div>
     </header>
 
